@@ -1,0 +1,14 @@
+{
+  "name": "Receipts_processor",
+  "version": "1.0.0",
+  "description": "A simple receipts processor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "uuid": "^11.0.5"
+  }
+}
